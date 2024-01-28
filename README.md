@@ -1,6 +1,6 @@
 ### Olá, bem vindo(a) ao meu perfil!
 
-- 🖥 Cursando 5º semestre de bacharel em Sistemas de Informações.
+- 🖥 Cursando 5º semestre de bacharel em Sistemas de Informação.
 - 📚 Estudando java.
 
 
